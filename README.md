@@ -31,11 +31,11 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 
 ## HTML
 
-### <head>
+### head
 
 - [A free guide to <head> elements](https://gethead.info/) - Recopilación exhaustiva y clara.
 
-### <img>
+### img
 
 - [lazysizes](https://github.com/aFarkas/lazysizes) - JavaScript que permite establecer de manera muy sencilla distintas imágenes para distintas resoluciones. También permite insertar vídeos de YouTube de manera responsive.
 
