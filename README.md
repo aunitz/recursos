@@ -1,6 +1,6 @@
 # Awesome Resources
 
-Listado de recursos interesantes. A modo de memorando. No todos los he investigado. Por tanto, pueden no resultar tan interesantes...
+Listado de recursos interesantes. A modo de memorando. No todos los he investigado. Por tanto, pueden no resultar tan interesantes... ;)
 
 <hr>
 
@@ -48,11 +48,27 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 
 ### Snippets
 
+## Diseño
+
+- [Los 10 principios de diseño de Dieter Rams](https://www.linkedin.com/pulse/los-10-principios-de-dise%C3%B1o-dieter-rams-christian-irack/) - Sencillo artículo que los enumera e ilustra.
+
+### Tipografía
+
+- [Anatomía del tipo](http://letrascalvas.blogspot.com.es/2015/12/ud-4-post-de-teoria.html) - Esquema claro de los diferentes elementos que constituyen una tipo.
+
 - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - Recopilación de flechas desarrolladas solo con CSS.
 
-## Herramientas de desarrollo
+## Herramientas
+
+### Desarrollo
 
 - [How to Use BrowserSync for Faster Development](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development) - Tutorial de iniciación.
+
+### Diseño
+
+- [Crello](https://crello.com/es/) - Crear diseños para publicaciones en redes sociales. A partir de plantillas. Muy resultón.
+
+## Herramientas
 
 ## PWA (Progressive Web App)
 
@@ -61,6 +77,10 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 ## HTML Email
 
 - [Understanding Media Queries in HTML Email](https://litmus.com/blog/understanding-media-queries-in-html-email) - Explica las funcionalidades de Media Queries que soporta cada cliente de email y cómo sacarles partido.
+
+## Marca personal
+
+- [El currículum perfecto](https://mailchi.mp/bonillaware/el-curriculum-perfecto?e=1c748833c8) - Interesante artículo de la Bonilista sobre una manera distinta de redactar nuestro currículum.
 
 ## Licencias
 
