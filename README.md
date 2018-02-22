@@ -29,6 +29,12 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 
 - [SonarQube](https://www.sonarqube.org/) - Code Smells. Bugs. Vulnerabilities.
 
+## Programación
+
+### Formación
+
+- [Varios sistemas para enseñar a programar a niñ@s](http://www.javiergarzas.com/2018/02/varios-sistemas-para-ensenar-a-programar-a-ninos.html) - Osmo Coding, Sphero, Lego Mindstorms, Scratch.
+
 ## HTML
 
 ### head
