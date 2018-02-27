@@ -61,8 +61,7 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 ### Tipografía
 
 - [Anatomía del tipo](http://letrascalvas.blogspot.com.es/2015/12/ud-4-post-de-teoria.html) - Esquema claro de los diferentes elementos que constituyen una tipo.
-
-- [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - Recopilación de flechas desarrolladas solo con CSS.
+- [Fontjoy](http://fontjoy.com/) - Una interesante herramienta para jugar/descubrir fuentes.
 
 ## Herramientas
 
@@ -74,7 +73,18 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 
 - [Crello](https://crello.com/es/) - Crear diseños para publicaciones en redes sociales. A partir de plantillas. Muy resultón.
 
-## Herramientas
+### Recursos gráficos gratuitos
+
+- [Freepik](https://www.freepik.es/) - Vectores , PSD, Iconos y fotos. Proyecto español.
+- [Animista](http://animista.net/) - Impresionante web para la generación online de animaciones 100% CSS.
+- [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - Recopilación de flechas desarrolladas solo con CSS.
+- [Coverr](https://coverr.co/) - Vídeos de fondo gratuitos. Algunos están muy bien.
+
+### Plataformas de autenticación como servicio
+
+- [Okta](https://developer.okta.com/) - Okta adds authentication, authorization, and user management to your web or mobile app within minutes. Incluye Multi-Factor Authentication.
+- [Duo](https://duo.com/) - Protect every user with Duo’s easy-to- use two-factor authentication, endpoint security and secure single sign-on.
+- [Auth0](https://auth0.com/) - Completa plataforma para la gestión de autenticación. Incluye Multi-Factor Authentication. Incluye integración de autenticaciones Google, Github, Facebook...
 
 ## PWA (Progressive Web App)
 
@@ -87,6 +97,10 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 ## Marca personal
 
 - [El currículum perfecto](https://mailchi.mp/bonillaware/el-curriculum-perfecto?e=1c748833c8) - Interesante artículo de la Bonilista sobre una manera distinta de redactar nuestro currículum.
+
+## Inspiración
+
+- [Good Web Design](http://www.goodweb.design/) - Puedes encontrar muy bien clasificados, un buen montón de capturas de buenos ejemplos de landing pages, menús, cabeceras, tablas, CTA, footers. Hay cosas muy chulas para obtener ideas.
 
 ## Licencias
 
