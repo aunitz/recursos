@@ -52,8 +52,6 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 - [Atomic CSS](https://acss.io/) - Framework de CSS pensado para componentes. Muy verboso.
 - [Tailwind CSS](https://tailwindcss.com/) - Framework de CSS pensado para componentes. Muy verboso inicialmente, aunque con una sintaxis más amigable que Atomic CSS. Lo interesante es que después, tras el prototipado inicial, se puede componentizar mediante @apply en el CSS común.
 
-### Snippets
-
 ## Diseño
 
 - [Los 10 principios de diseño de Dieter Rams](https://www.linkedin.com/pulse/los-10-principios-de-dise%C3%B1o-dieter-rams-christian-irack/) - Sencillo artículo que los enumera e ilustra.
@@ -75,9 +73,14 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 
 ### Recursos gráficos gratuitos
 
+#### Imagen
 - [Freepik](https://www.freepik.es/) - Vectores , PSD, Iconos y fotos. Proyecto español.
+
+#### CSS
 - [Animista](http://animista.net/) - Impresionante web para la generación online de animaciones 100% CSS.
 - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - Recopilación de flechas desarrolladas solo con CSS.
+
+#### Vídeo
 - [Coverr](https://coverr.co/) - Vídeos de fondo gratuitos. Algunos están muy bien.
 
 ### Plataformas de autenticación como servicio
