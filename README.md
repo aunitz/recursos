@@ -52,6 +52,12 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 - [Atomic CSS](https://acss.io/) - Framework de CSS pensado para componentes. Muy verboso.
 - [Tailwind CSS](https://tailwindcss.com/) - Framework de CSS pensado para componentes. Muy verboso inicialmente, aunque con una sintaxis más amigable que Atomic CSS. Lo interesante es que después, tras el prototipado inicial, se puede componentizar mediante @apply en el CSS común.
 
+### Formación
+
+- [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables) - 8 interactive screencasts to take you from beginner to advanced.
+- [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)- 14 interactive screencasts to take you from beginner to advanced.
+- [Learn Flexbox for free](https://scrimba.com/g/gflexbox) - 12 interactive screencasts to take you from beginner to advanced.
+
 ## Diseño
 
 - [Los 10 principios de diseño de Dieter Rams](https://www.linkedin.com/pulse/los-10-principios-de-dise%C3%B1o-dieter-rams-christian-irack/) - Sencillo artículo que los enumera e ilustra.
@@ -79,6 +85,7 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 #### CSS
 - [Animista](http://animista.net/) - Impresionante web para la generación online de animaciones 100% CSS.
 - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - Recopilación de flechas desarrolladas solo con CSS.
+- [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 
 #### Vídeo
 - [Coverr](https://coverr.co/) - Vídeos de fondo gratuitos. Algunos están muy bien.
