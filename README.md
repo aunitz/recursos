@@ -12,6 +12,22 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
   </ul>
 -->
 
+## Usabilidad
+
+### Tablas
+
+- [Design better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) - This article presents a list of design structures, interaction patterns, and techniques to help you design better data tables.
+
+### Formularios
+
+- [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them.
+- [Reduce el número de campos de los formularios](https://www.aunitz.net/tip-4-reducir-campos-formulario/) - Los seres humanos somos reacios a realizar trabajo de más. Esta idea se aplica también a rellenar campos de un formulario.
+- [Dropdown alternatives for better (mobile) forms](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53) - Alternativas a los select.
+- [Form Design for Complex Applications](https://uxdesign.cc/form-design-for-complex-applications-d8a1d025eba6) - Diferentes patrones de maneras de mostrar formularios. En una modal, en un sidebar, etc.
+- [Designing More Efficient Forms: Structure, Inputs, Labels and Actions](https://uxplanet.org/designing-more-efficient-forms-structure-inputs-labels-and-actions-e3a47007114f) - Especialmente interesante el apartado sobre cuál es la mejor ubicación para los labels. Ampliado en [CSS-TRICKS](https://css-tricks.com/label-placement-on-forms/).
+- [Designing More Efficient Forms: Assistance and Validation](https://uxplanet.org/designing-more-efficient-forms-assistance-and-validation-f26a5241199d) - Centrado en las ayudas y las validaciones.
+- [Use these top 10 tips when you design for forms](https://blog.prototypr.io/use-these-top-10-tips-when-you-design-forms-d095d6e3ab8a) - 10 pautas de usabilidad.
+
 ## Accesibilidad
 
 - [Funkify](http://www.funkify.org/) - Funkify is a new extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities. Dyslexia simulator. Cognition simulator. Motor simulator. Vision simulator. Interesante para propósitos educacionales.
