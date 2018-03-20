@@ -17,6 +17,7 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 ### Tablas
 
 - [Design better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) - This article presents a list of design structures, interaction patterns, and techniques to help you design better data tables.
+- [60 charts to visualize your data](https://www.linkedin.com/pulse/60-charts-visualize-yourdata-wenjun-wu/) - Excelente cheatsheet con distintas tipologías de gráficos y sus posibles usos. [Descargar el cheatsheet en PDF](https://github.com/aunitz/recursos/downloads/60-charts-cheatsheet.pdf).
 
 ### Formularios
 
