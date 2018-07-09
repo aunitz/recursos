@@ -14,9 +14,19 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 
 ## Usabilidad
 
+### Guidelines
+
+- [Research-Based Web Design and Usability Guidelines from U.S. Department of Health and Human Services (HHS)](https://webstandards.hhs.gov/guidelines/) - Un listado muy numeroso de pautas concretas, pero escaso de ejemplos para entenderlas bien.
+- [247 Web usability guidelines by David Travis of Userfocus](https://www.userfocus.co.uk/resources/guidelines.html) - Consisten únicamente en los enunciados de las pautas. Se pueden descargar en forma de Excel. También [en español](https://www.userfocus.co.uk/pdf/ExpertReviewCheckpoints-Spanish.xls).
+- [Guidance on World Wide Web user interfaces (ISO 9241-151) from ISO - International Organization for Standardization](https://www.iso.org/standard/37031.html) - Es un documento PDF de pago.
+- [113 Design Guidelines for Homepage Usability by Jakob Nielsen of Nielsen Norman Group](https://www.nngroup.com/articles/113-design-guidelines-homepage-usability/) - Enunciados de las pautas acompañados de explicación que lo aclara.
+
 ### Tablas
 
 - [Design better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) - This article presents a list of design structures, interaction patterns, and techniques to help you design better data tables.
+
+### Gráficos
+
 - [60 charts to visualize your data](https://www.linkedin.com/pulse/60-charts-visualize-yourdata-wenjun-wu/) - Excelente cheatsheet con distintas tipologías de gráficos y sus posibles usos. [Descargar el cheatsheet en PDF](https://github.com/aunitz/recursos/downloads/60-charts-cheatsheet.pdf).
 
 ### Formularios
@@ -28,6 +38,7 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 - [Designing More Efficient Forms: Structure, Inputs, Labels and Actions](https://uxplanet.org/designing-more-efficient-forms-structure-inputs-labels-and-actions-e3a47007114f) - Especialmente interesante el apartado sobre cuál es la mejor ubicación para los labels. Ampliado en [CSS-TRICKS](https://css-tricks.com/label-placement-on-forms/).
 - [Designing More Efficient Forms: Assistance and Validation](https://uxplanet.org/designing-more-efficient-forms-assistance-and-validation-f26a5241199d) - Centrado en las ayudas y las validaciones.
 - [Use these top 10 tips when you design for forms](https://blog.prototypr.io/use-these-top-10-tips-when-you-design-forms-d095d6e3ab8a) - 10 pautas de usabilidad.
+- [Placeholders in Form Fields Are Harmful](https://www.nngroup.com/articles/form-design-placeholders/)
 
 ## Accesibilidad
 
