@@ -54,6 +54,8 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 
 ## Calidad
 
+- [The Front-End Checklist](https://frontendchecklist.io/) - The Front-End Checklist Application is perfect for modern websites and meticulous developers.
+
 ### Testing
 
 - [SonarQube](https://www.sonarqube.org/) - Code Smells. Bugs. Vulnerabilities.
