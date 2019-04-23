@@ -44,6 +44,7 @@ Listado de recursos interesantes. A modo de memorando. No todos los he investiga
 
 - [Funkify](http://www.funkify.org/) - Funkify is a new extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities. Dyslexia simulator. Cognition simulator. Motor simulator. Vision simulator. Interesante para propósitos educacionales.
 - [Axe](https://www.deque.com/axe/) - Axe is an open source rules library for accessibility testing. Disponible en forma de extensión de Chrome, entre otras alternativas.
+- [How Can I Make My Icon System Accessible?](https://css-tricks.com/can-make-icon-system-accessible/) - Artículo breve y directo sobre cómo hacer accesibles los iconos.
 
 ## Rendimiento
 
